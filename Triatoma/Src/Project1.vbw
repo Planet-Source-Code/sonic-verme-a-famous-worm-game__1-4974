@@ -1,0 +1,7 @@
+frmPrincipal = 44, 44, 465, 389, C, 22, 22, 516, 490, C
+frmAbout = 0, 0, 0, 0, C, 88, 88, 382, 433, C
+CArquivoINI = 0, 0, 0, 0, C
+frmConfigurarJogo = 66, 66, 360, 411, C, 44, 44, 338, 389, C
+frmRecordes = 154, 154, 596, 500, C, 66, 66, 358, 411, C
+modPrincipal = 22, 22, 464, 368, C
+frmNovoRecorde = 88, 88, 463, 434, C, 110, 110, 552, 456, C
