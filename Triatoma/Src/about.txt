@@ -1,0 +1,24 @@
+About the game...
+
+Well, i made this game for my brother. He was aways playing it on my cell phone. Every time
+when i wanted to make a call, the battery was empty (fuck! fuck! fuck! fuck! ... ). I became
+very angry, i became mad with my brother... So i made my worm game! He stopped playing with 
+my cell phone, fortunately. I written the game in Portuguese, so i´ve filled code with 
+comments in English, translating things when possible. Sorry about my poor English!
+
+
+About the author
+
+I am Brazilian, 19 years old. I am a programmer in PROCENGE, a big Brazilian software 
+house. We make applications using the 4 tiers technology, with ActiveX, DCOM, Microsoft 
+Visual Basic 6.0, Microsoft Transaction Server, Microsoft SQL Server 6.5, Oracle 8.0, 
+and such things like that. 
+
+I have a cat at home, and i think that she´s an alien! Oh my, you should see her big blue
+eyes looking at me... I won´t stay alone at home with her! She wants to take me to a big
+trip to her planet, &nndash...
+
+:)))
+
+[]´s!
+Rafael Winter (Sonic!)
